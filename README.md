@@ -8,3 +8,4 @@ To run the application:
 
 ```bash
 node index.js
+[video recording](Untitled video - Made with Clipchamp (1).mp4) //path to video
